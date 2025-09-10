@@ -9,7 +9,7 @@ import styles from "./page.module.css";
 export default function Home() {
     const [info, setInfo] = useState(null);
 
-    let imgSrc = info && info.foto ? info.foto : "img/ranita.jpg";
+    let imgSrc = info && info.foto ? info.foto : "img/ranita.jpg"; 
 
 
     return(
