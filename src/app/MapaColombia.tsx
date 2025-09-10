@@ -58,7 +58,7 @@ export default function MapaColombia({ onSelect }) {
                         </Marker>
                     ))}
                     </LayerGroup>
-                </Overlay>
+                </Overlay>  
         </LayersControl>      
     </MapContainer>
   );
