@@ -2,21 +2,18 @@
 
 import { MapContainer, TileLayer, Marker, Popup, LayersControl, LayerGroup, GeoJSON, useMap } from "react-leaflet";
 import "leaflet/dist/leaflet.css";
-import L from "leaflet";
 
 import departamentos from "../data/departamentos.json";
 import { useEffect, useRef, useState } from "react";
 
 const { BaseLayer, Overlay } = LayersControl;
-
 const markerIcon = new L.Icon({
   iconUrl:
     "https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.7.1/images/marker-icon.png",
   iconSize: [25, 41],
   iconAnchor: [12, 41],
 });
-
-export default function MapaColombia({ onSelect }) {
+export default function MapaColombia() {
     const popupRefs = departamentos.map(() => useRef(null));
 
     return (
