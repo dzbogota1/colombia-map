@@ -62,4 +62,4 @@ export default function MapaColombia({ onSelect }) {
         </LayersControl>      
     </MapContainer>
   );
-}
+} 
