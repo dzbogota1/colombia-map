@@ -1,0 +1,156 @@
+[
+  {
+    "ID": 36,
+    "NOMBRE": "Complejo Volcánico Cisne–Morro Negro",
+    "ALTURA": 4700,
+    "LATITUD": 4.84308193,
+    "LONGITUD": -75.34552674
+  },
+  {
+    "ID": 23,
+    "NOMBRE": "Complejo Volcánico Cumbal",
+    "ALTURA": 4764,
+    "LATITUD": 0.95103976,
+    "LONGITUD": -77.89624066
+  },
+  {
+    "ID": 26,
+    "NOMBRE": "Complejo Volcánico Doña Juana",
+    "ALTURA": 4160,
+    "LATITUD": 1.49765765,
+    "LONGITUD": -76.93915941
+  },
+  {
+    "ID": 27,
+    "NOMBRE": "Complejo Volcánico Galeras",
+    "ALTURA": 4276,
+    "LATITUD": 1.22214016,
+    "LONGITUD": -77.35941133
+  },
+  {
+    "ID": 35,
+    "NOMBRE": "Complejo Volcánico Nevado de Santa Isabel",
+    "ALTURA": 4965,
+    "LATITUD": 4.80261452,
+    "LONGITUD": -75.37140941
+  },
+  {
+    "ID": 37,
+    "NOMBRE": "Complejo Volcánico Nevado del Huila",
+    "ALTURA": 5364,
+    "LATITUD": 2.92383381,
+    "LONGITUD": -76.02859126
+  },
+  {
+    "ID": 39,
+    "NOMBRE": "Complejo Volcánico Nevado del Ruiz",
+    "ALTURA": 5321,
+    "LATITUD": 4.88344339,
+    "LONGITUD": -75.31746175
+  },
+  {
+    "ID": 63,
+    "NOMBRE": "Complejo Volcánico Sotará",
+    "ALTURA": 4420,
+    "LATITUD": 2.10449286,
+    "LONGITUD": -76.59093663
+  },
+  {
+    "ID": 11,
+    "NOMBRE": "Volcán Azufral",
+    "ALTURA": 4070,
+    "LATITUD": 1.08458345,
+    "LONGITUD": -77.71668257
+  },
+  {
+    "ID": 15,
+    "NOMBRE": "Volcán Cerro Bravo",
+    "ALTURA": 4000,
+    "LATITUD": 5.08460627,
+    "LONGITUD": -75.29165103
+  },
+  {
+    "ID": 31,
+    "NOMBRE": "Volcán Cerro Machín",
+    "ALTURA": 2750,
+    "LATITUD": 4.48664667,
+    "LONGITUD": -75.38619431
+  },
+  {
+    "ID": 17,
+    "NOMBRE": "Volcán Cerro Negro",
+    "ALTURA": 4470,
+    "LATITUD": 0.82320699,
+    "LONGITUD": -77.96818593
+  },
+  {
+    "ID": 18,
+    "NOMBRE": "Volcán Chiles",
+    "ALTURA": 4748,
+    "LATITUD": 0.81443131,
+    "LONGITUD": -77.93668922
+  },
+  {
+    "ID": 24,
+    "NOMBRE": "Volcán Curiquinga",
+    "ALTURA": 4400,
+    "LATITUD": 2.30384217,
+    "LONGITUD": -76.39094621
+  },
+  {
+    "ID": 10,
+    "NOMBRE": "Volcán Las Ánimas",
+    "ALTURA": 4300,
+    "LATITUD": 1.56540181,
+    "LONGITUD": -76.85806831
+  },
+  {
+    "ID": 40,
+    "NOMBRE": "Volcán Nevado del Tolima",
+    "ALTURA": 5215,
+    "LATITUD": 4.65857526,
+    "LONGITUD": -75.32949663
+  },
+  {
+    "ID": 41,
+    "NOMBRE": "Volcán Paletará",
+    "ALTURA": 4400,
+    "LATITUD": 2.29501237,
+    "LONGITUD": -76.38800844
+  },
+  {
+    "ID": 42,
+    "NOMBRE": "Volcán Pan de Azúcar",
+    "ALTURA": 4650,
+    "LATITUD": 2.27127229,
+    "LONGITUD": -76.36000515
+  },
+  {
+    "ID": 47,
+    "NOMBRE": "Volcán Paramillo de Santa Rosa",
+    "ALTURA": 4600,
+    "LATITUD": 4.79207865,
+    "LONGITUD": -75.47881185
+  },
+  {
+    "ID": 38,
+    "NOMBRE": "Volcán Paramillo del Quindío",
+    "ALTURA": 4700,
+    "LATITUD": 4.70868889,
+    "LONGITUD": -75.38073752
+  },
+  {
+    "ID": 45,
+    "NOMBRE": "Volcán Puracé",
+    "ALTURA": 4650,
+    "LATITUD": 2.31325538,
+    "LONGITUD": -76.39534161
+  },
+  {
+    "ID": 79,
+    "NOMBRE": "Volcán Romeral",
+    "ALTURA": 3858,
+    "LATITUD": 5.206,
+    "LONGITUD": -75.364
+  }
+]
