@@ -32,11 +32,7 @@ export default function MapaColombia() {
                         >
 <Popup>
                             <div className="flex-column" style={{alignItems:"center", justifyContent:"center", fontWeight:"bold"}}>
-                                <img
-                                        src={ "img/ranita.jpg"}
-                                    
-                                        style={{ width: "100px"}}
-                                    />
+                            
                                 <div>Department: {d.departamento}</div>                
                                 <div>Population (Dept): {d.habitantesDepto}</div>
                                 <div>Capital: {d.capital}</div>
