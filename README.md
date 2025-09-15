@@ -5,6 +5,7 @@ This project is a simple web application that displays a map of Colombia with ma
 ## Features
 - Interactive map of Colombia.
 - Markers for each department capital.
-- Population information shown when clicking a marker.
 - Built with **Vite** for fast and lightweight development.
 - Deployed on **GitHub Pages**.
+[https://dzbogota1.github.io/colombia-map/](https://dzbogota1.github.io/colombia-map/)
+
