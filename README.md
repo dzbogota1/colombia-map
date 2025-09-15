@@ -1,6 +1,6 @@
 # Map of Colombia with Department Capitals
 
-This project is a simple web application that displays a map of Colombia with markers for the **department capitals**, including basic population information.
+This project is a simple web application that displays a map of Colombia with markers for the **department capitals**, including general information.
 
 ## Features
 - Interactive map of Colombia.
