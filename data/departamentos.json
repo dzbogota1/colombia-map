@@ -2,254 +2,261 @@
   {
     "departamento": "Amazonas",
     "capital": "Leticia",
-    "habitantesDepto": "80,000",
-    "habitantesCiudad": "50,000",
+    "habitantesDepto": "80000",
+    "habitantesCiudad": "50000",
     "coords": [-4.2153, -69.9406]      
   },
   {
     "departamento": "Antioquia",
     "capital": "Medellín",
-    "habitantesDepto": "6,800,000",
-    "habitantesCiudad": "2,500,000",
+    "habitantesDepto": "6800000",
+    "habitantesCiudad": "2500000",
     "coords": [6.2442, -75.5812]
     
   },
   {
     "departamento": "Arauca",
     "capital": "Arauca",
-    "habitantesDepto": "270,000",
-    "habitantesCiudad": "85,000",
+    "habitantesDepto": "270000",
+    "habitantesCiudad": "85000",
     "coords": [7.0847, -70.7591]
     
   },
   {
     "departamento": "Atlántico",
     "capital": "Barranquilla",
-    "habitantesDepto": "2,500,000",
-    "habitantesCiudad": "1,200,000",
+    "habitantesDepto": "2500000",
+    "habitantesCiudad": "1200000",
     "coords": [10.9639, -74.7964]
     
   },
   {
     "departamento": "Bolívar",
     "capital": "Cartagena",
-    "habitantesDepto": "2,000,000",
-    "habitantesCiudad": "1,000,000",
+    "habitantesDepto": "2000000",
+    "habitantesCiudad": "1000000",
     "coords": [10.3910, -75.4794]
     
   },
   {
     "departamento": "Boyacá",
     "capital": "Tunja",
-    "habitantesDepto": "1,200,000",
-    "habitantesCiudad": "180,000",
+    "habitantesDepto": "1200000",
+    "habitantesCiudad": "180000",
     "coords": [5.5353, -73.3678]
     
   },
   {
     "departamento": "Caldas",
     "capital": "Manizales",
-    "habitantesDepto": "1,000,000",
-    "habitantesCiudad": "430,000",
+    "habitantesDepto": "1000000",
+    "habitantesCiudad": "430000",
     "coords": [5.0703, -75.5138]
     
   },
   {
     "departamento": "Caquetá",
     "capital": "Florencia",
-    "habitantesDepto": "400,000",
-    "habitantesCiudad": "180,000",
+    "habitantesDepto": "400000",
+    "habitantesCiudad": "180000",
     "coords": [1.6144, -75.6062]
     
   },
   {
     "departamento": "Casanare",
     "capital": "Yopal",
-    "habitantesDepto": "450,000",
-    "habitantesCiudad": "150,000",
+    "habitantesDepto": "450000",
+    "habitantesCiudad": "150000",
     "coords": [5.3378, -72.3942]
     
   },
   {
     "departamento": "Cauca",
     "capital": "Popayán",
-    "habitantesDepto": "1,500,000",
-    "habitantesCiudad": "400,000",
+    "habitantesDepto": "1500000",
+    "habitantesCiudad": "400000",
     "coords": [2.4448, -76.6147]
   },
   {
     "departamento": "Cesar",
     "capital": "Valledupar",
-    "habitantesDepto": "1,200,000",
-    "habitantesCiudad": "500,000",
+    "habitantesDepto": "1200000",
+    "habitantesCiudad": "500000",
     "coords": [10.4631, -73.2532]
     
   },
   {
     "departamento": "Chocó",
     "capital": "Quibdó",
-    "habitantesDepto": "550,000",
-    "habitantesCiudad": "130,000",
+    "habitantesDepto": "550000",
+    "habitantesCiudad": "130000",
     "coords": [5.6947, -76.6611]
     
   },
   {
     "departamento": "Córdoba",
     "capital": "Montería",
-    "habitantesDepto": "1,800,000",
-    "habitantesCiudad": "500,000",
+    "habitantesDepto": "1800000",
+    "habitantesCiudad": "500000",
     "coords": [8.7486, -75.8814]
     
   },
   {
+    "departamento": "Bogotá D.C.",
+    "capital": "Bogotá",
+    "habitantesDepto": "7500000",
+    "habitantesCiudad": "7500000",
+    "coords": [4.7110, -74.0721]    
+  },
+
+  {
     "departamento": "Cundinamarca",
     "capital": "Bogotá",
-    "habitantesDepto": "3,000,000",
-    "habitantesCiudad": "7,500,000",
-    "coords": [4.7110, -74.0721]
-    
+    "habitantesDepto": "3000000",
+    "habitantesCiudad": "7500000",
+    "coords": [4.7110, -74.0721]    
   },
   {
     "departamento": "Guainía",
     "capital": "Inírida",
-    "habitantesDepto": "50,000",
-    "habitantesCiudad": "30,000",
+    "habitantesDepto": "50000",
+    "habitantesCiudad": "30000",
     "coords": [3.8653, -67.9239]
     
   },
   {
     "departamento": "Guaviare",
     "capital": "San José del Guaviare",
-    "habitantesDepto": "120,000",
-    "habitantesCiudad": "80,000",
+    "habitantesDepto": "120000",
+    "habitantesCiudad": "80000",
     "coords": [2.5739, -72.6459]
     
   },
   {
     "departamento": "Huila",
     "capital": "Neiva",
-    "habitantesDepto": "1,200,000",
-    "habitantesCiudad": "400,000",
+    "habitantesDepto": "1200000",
+    "habitantesCiudad": "400000",
     "coords": [2.9386, -75.2819]
    
   },
   {
     "departamento": "La Guajira",
     "capital": "Riohacha",
-    "habitantesDepto": "1,000,000",
-    "habitantesCiudad": "200,000",
+    "habitantesDepto": "1000000",
+    "habitantesCiudad": "200000",
     "coords": [11.5449, -72.9070]
   
   },
   {
     "departamento": "Magdalena",
     "capital": "Santa Marta",
-    "habitantesDepto": "1,300,000",
-    "habitantesCiudad": "500,000",
+    "habitantesDepto": "1300000",
+    "habitantesCiudad": "500000",
     "coords": [11.2408, -74.1990]
   
   },
   {
     "departamento": "Meta",
     "capital": "Villavicencio",
-    "habitantesDepto": "1,100,000",
-    "habitantesCiudad": "500,000",
+    "habitantesDepto": "1100000",
+    "habitantesCiudad": "500000",
     "coords": [4.1420, -73.6266]
    
   },
   {
     "departamento": "Nariño",
     "capital": "Pasto",
-    "habitantesDepto": "1,600,000",
-    "habitantesCiudad": "450,000",
+    "habitantesDepto": "1600000",
+    "habitantesCiudad": "450000",
     "coords": [1.2136, -77.2811]
    
   },
   {
     "departamento": "Norte de Santander",
     "capital": "Cúcuta",
-    "habitantesDepto": "1,400,000",
-    "habitantesCiudad": "750,000",
+    "habitantesDepto": "1400000",
+    "habitantesCiudad": "750000",
     "coords": [7.8891, -72.4967]
    
   },
   {
     "departamento": "Putumayo",
     "capital": "Mocoa",
-    "habitantesDepto": "350,000",
-    "habitantesCiudad": "50,000",
+    "habitantesDepto": "350000",
+    "habitantesCiudad": "50000",
     "coords": [1.1526, -76.6521]
    
   },
   {
     "departamento": "Quindío",
     "capital": "Armenia",
-    "habitantesDepto": "550,000",
-    "habitantesCiudad": "300,000",
+    "habitantesDepto": "550000",
+    "habitantesCiudad": "300000",
     "coords": [4.5339, -75.6811]
    
   },
   {
     "departamento": "Risaralda",
     "capital": "Pereira",
-    "habitantesDepto": "1,000,000",
-    "habitantesCiudad": "480,000",
+    "habitantesDepto": "1000000",
+    "habitantesCiudad": "480000",
     "coords": [4.8143, -75.6946]
    
   },
   {
     "departamento": "San Andrés y Providencia",
     "capital": "San Andrés",
-    "habitantesDepto": "80,000",
-    "habitantesCiudad": "60,000",
+    "habitantesDepto": "80000",
+    "habitantesCiudad": "60000",
     "coords": [12.5847, -81.7006]
    
   },
   {
     "departamento": "Santander",
     "capital": "Bucaramanga",
-    "habitantesDepto": "2,200,000",
-    "habitantesCiudad": "600,000",
+    "habitantesDepto": "2200000",
+    "habitantesCiudad": "600000",
     "coords": [7.1254, -73.1198]
     
   },
   {
     "departamento": "Sucre",
     "capital": "Sincelejo",
-    "habitantesDepto": "950,000",
-    "habitantesCiudad": "300,000",
+    "habitantesDepto": "950000",
+    "habitantesCiudad": "300000",
     "coords": [9.3047, -75.3978]
     
   },
   {
     "departamento": "Tolima",
     "capital": "Ibagué",
-    "habitantesDepto": "1,400,000",
-    "habitantesCiudad": "500,000",
+    "habitantesDepto": "1400000",
+    "habitantesCiudad": "500000",
     "coords": [4.4389, -75.2322]
     
   },
   {
     "departamento": "Valle del Cauca",
     "capital": "Cali",
-    "habitantesDepto": "4,500,000",
-    "habitantesCiudad": "2,200,000",
+    "habitantesDepto": "4500000",
+    "habitantesCiudad": "2200000",
     "coords": [3.4516, -76.5320]
 
   },
   {
     "departamento": "Vaupés",
     "capital": "Mitú",
-    "habitantesDepto": "45,000",
-    "habitantesCiudad": "25,000",
+    "habitantesDepto": "45000",
+    "habitantesCiudad": "25000",
     "coords": [1.2530, -70.2343]
     
   },
   {
     "departamento": "Vichada",
     "capital": "Puerto Carreño",
-    "habitantesDepto": "110,000",
-    "habitantesCiudad": "25,000",
+    "habitantesDepto": "110000",
+    "habitantesCiudad": "25000",
     "coords": [6.1890, -67.4859]
     
   }

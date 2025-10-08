@@ -5,6 +5,13 @@
     margin: 0;
 }
 
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+}
+
 ul {
   list-style-position: inside;
   padding-left: 0;   /* quita padding extra */
@@ -39,7 +46,7 @@ ul {
 .flex-center-all {
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center;   
 }
 
 .w-100vw {
@@ -99,3 +106,25 @@ ul {
   background-color:#FFC845 !important;   
   color:  #00264C !important;
 }
+
+.menu {
+    color:#FFC845;
+    background-color:  #00264C;
+}
+
+nav {
+  background-color: #00264C;
+  color: #FFC845;           
+  padding: 1rem;
+}
+
+.navegacion a {
+  color: #DADADA;           
+  text-decoration: none;     
+  font-weight: bold;
+}
+
+.navegacion a:hover {
+  color: #fff;            
+}
+
