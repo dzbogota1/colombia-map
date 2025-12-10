@@ -4,7 +4,7 @@ import MapaReferencia from './MapaReferencia'
 
 export default function MapaContainer() {
     return (
-        <div className='flex-1 flex-row flex-center-all' > 
+        <div className='flex-1 flex-md-column-dd-row flex-center-all' > 
             <div className='flex-column' style={{ padding:"0 30px", gap:"15px"}}>
                 <h2>Colombia</h2>
                 <p>

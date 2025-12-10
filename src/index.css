@@ -1,4 +1,4 @@
-|:root {
+:root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
@@ -11,6 +11,12 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
 }
 
 a {
@@ -53,6 +59,55 @@ button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
+
+.flex-column {
+    display: flex;
+    flex-direction: column;
+}
+
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-1 {
+    flex:1;
+}
+
+.flex-center-all {
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+.flex-md-column-dd-row {
+    display: flex;
+    flex-direction: column;
+}
+
+.w-100vw {
+    width: 100vw;
+}
+
+.w-100pct {
+    width: 100%;
+}
+
+.h-100vh {
+    height: 100vh;
+}
+
+.h-100pct {
+    height: 100%;
+}
+
+@media (min-width: 768px) {
+    .flex-md-column-dd-row {
+        flex-direction: row;
+    }
+}
+
+
 
 @media (prefers-color-scheme: light) {
   :root {
