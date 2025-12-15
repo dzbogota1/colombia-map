@@ -4,16 +4,7 @@ ul {
   margin-left: 0;    /* alinea con el contenedor */
 }
 
-.inset-map {
- /* position: absolute;
-  bottom: 10px;  
-  right: 10px;*/
-  width: 300px;   
-  height: 280px;
-  border: 2px solid #333;
-  z-index: 1000;
-  background: white;
-}
+
 
 
 

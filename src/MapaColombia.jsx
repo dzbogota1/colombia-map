@@ -1,4 +1,4 @@
-import { LayerGroup, LayersControl, MapContainer, Marker, Popup, TileLayer, useMapEvents } from "react-leaflet";
+import { LayerGroup, LayersControl, MapContainer, Marker, Popup, TileLayer, useMap, useMapEvents } from "react-leaflet";
 import 'leaflet/dist/leaflet.css';
 
 import departamentos from "../data/departamentos.json";
@@ -33,11 +33,38 @@ const volcanoIcon = new L.Icon({
 });
 
 
+function MyComponent() {
+    const map = useMap()
+    setTimeout(() => map.invalidateSize(), 300);
+
+}
+
+function MapResizeHandler() {
+    const map = useMap();
+
+    useEffect(() => {
+        // Ejecutamos la función de resize con un pequeño retraso
+        const timer = setTimeout(() => {
+            if (map) {
+                 map.invalidateSize();
+                 console.log("Leaflet resize forzado después de 100ms.");
+            }
+        }, 100); // 100ms suelen ser suficientes para que Flexbox termine
+
+        // Función de limpieza de useEffect (importante)
+        return () => clearTimeout(timer);
+        
+    }, [map]); 
+    
+    return null; 
+}
+
 export default function MapaColombia() {
     const { BaseLayer, Overlay } = LayersControl;
 
     return (          
         <MapContainer  center={[4.7110, -74.0721]} zoom={5} style={{ height: "100%", width: "100%" }} attributionControl={false}>            
+            <MyComponent />
             <LayersControl position="topright">          
                 <BaseLayer checked name="OpenStreetMap base layer">
                     <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />

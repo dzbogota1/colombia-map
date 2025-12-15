@@ -16,12 +16,12 @@ export default function MapaReferencia() {
     return (  
         <MapContainer       
         center={[4.7110, -74.0721]}
-        zoom={0}
-        className="inset-map"
+        zoom={0}        
         dragging={false}
         scrollWheelZoom={false}
         doubleClickZoom={false}
         attributionControl={false}
+        style={{ width:"300px", height: "300px"}}
         zoomControl={false}>
             <TileLayer url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png" />
             <Marker position={[4.5709, -74.2973]} icon={markerIcon}/>
