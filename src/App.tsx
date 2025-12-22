@@ -11,7 +11,7 @@ export default function App() {
         <div className='flex-column w-100dvw h-100dvh' style={{backgroundColor:"#FFC845",  color:  "#00264C",
         fontFamily:"sans-serif"}}>            
             <div className='navegacion flex-row w-100pct'
-            style={{background:"#00264c", color:"#FFC845", padding:"10px"}}>                    
+            style={{background:"#2c5282", color:"#FFC845", padding:"10px"}}>                    
                 <Link to="/">Map</Link>
                 <div style={{padding:"0 10px"}}>|</div>
                 <Link to="/graphs">Graphs</Link>                

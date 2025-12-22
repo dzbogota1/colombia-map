@@ -63,7 +63,7 @@ export default function MapaColombia() {
     const { BaseLayer, Overlay } = LayersControl;
 
     return (          
-        <MapContainer  center={[4.7110, -74.0721]} zoom={5} style={{ height: "100%", width: "100%" }} attributionControl={false}>            
+        <MapContainer  center={[4.7110, -74.0721]} zoom={5} style={{ height: "100%", width: "100%", borderRadius: "8px" }} attributionControl={false}>            
             <MyComponent />
             <LayersControl position="topright">          
                 <BaseLayer checked name="OpenStreetMap base layer">
