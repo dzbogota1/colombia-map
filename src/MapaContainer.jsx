@@ -20,18 +20,24 @@ export default function App() {
     ];
 
     return (
-        <div className='w-100pct h-100pct flex-md-column-dd-row' style={{background:"#2C2A29", gap:"10px", padding:"16px"}}>
-            <div>
-                Colombia is a country
+        <div className='w-100pct h-100pct flex-column' style={{background:"#2C2A29", gap:"10px", padding:"16px"}}>
+            <div className="flex-center-all"style={{background:"#F2F1EE", color:"#1E1D1C", fontWeight:"bold", fontSize:20,
+                borderRadius:8
+            }}>
+                Colombia 
             </div>
            
-            <div className="flex-column" style={{ flexGrow:1, flexBasis:"60%", minHeight:0,   }}>                
-                <MapaColombia/>
-            </div> 
-           
-            <div className="flex-column" style={{background:"#f00", flexGrow:1 , flexShrink:1, flexBasis:"40%"   , 
-               minHeight:0,  overflow:"auto",  borderRadius: "8px"  }}>
-               <TablaSort columns={columns} data={departamentos} /> 
+            <div className='flex-1 flex-md-column-dd-row' style={{minHeight:0, gap:10}}>
+                <div className="flex-column" style={{ flexGrow:1, flexBasis:"60%", minHeight:0,   }}>                
+                    <MapaColombia/>
+                </div> 
+            
+                <div className="flex-column" style={{background:"#f00", flexGrow:1 , flexShrink:1, flexBasis:"40%"   , 
+                minHeight:0,  overflow:"hidden",  borderRadius: "8px"  }}>
+                    <div style={{ overflow: "auto", flex: 1 }}>
+                        <TablaSort columns={columns} data={departamentos} /> 
+                    </div>
+                </div>
             </div>
         </div>
     )
