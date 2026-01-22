@@ -1,19 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
-
-  <!-- Arrow tip -->
   <polygon
     points="60 8 98 44 22 44"
     fill="#2C5282"
   />
 
-  <!-- Letter D (main body, lowered) -->
   <text
     x="60"
     y="116"
     text-anchor="middle"
     font-size="96"
     font-weight="900"
-    fill="#F5F2EB"
+    fill="#FF6F61"
     font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif">
     D
   </text>
