@@ -1,8 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120">
-  <polygon
-    points="60 8 98 44 22 44"
+
+  <text
+    x="60"
+    y="72"
+    text-anchor="middle"
+    font-size="96"
+    font-weight="900"
     fill="#2C5282"
-  />
+    font-family="system-ui, -apple-system, BlinkMacSystemFont, sans-serif"
+    transform="rotate(-45 70 40)">
+        Z
+    </text>
 
   <text
     x="60"
